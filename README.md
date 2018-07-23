@@ -12,6 +12,7 @@ $ webpack
 $ npm i -D style-loader css-loader
  - - - 
 安装Vue
+
 $ npm install vue
 
 打开index.html就可以看见运行的结果了
