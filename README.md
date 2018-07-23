@@ -1,5 +1,4 @@
 # webpack
-- - - 
 It's a test of webpack.
 - - - 
 # 运行指南
