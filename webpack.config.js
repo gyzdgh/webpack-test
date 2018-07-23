@@ -17,5 +17,10 @@ module.exports = {
         use: ['style-loader', 'css-loader?minimize'],
       }
     ]
+  },
+  resolve: {
+    alias: {
+      'vue$': 'vue/dist/vue.common.js'
+    }
   }
 };

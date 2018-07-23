@@ -12,5 +12,8 @@
     "css-loader": "^1.0.0",
     "style-loader": "^0.21.0",
     "webpack": "^4.16.1"
+  },
+  "dependencies": {
+    "vue": "^2.5.16"
   }
 }
