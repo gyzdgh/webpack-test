@@ -6,7 +6,7 @@
 // show('Webpack');
 
 
-import bar from './show';
+import main from './show';
 import Vue from 'vue'
 
 var app = new Vue({
